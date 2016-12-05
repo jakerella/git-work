@@ -6,4 +6,6 @@
     console.log('hi!');
 
     console.log('one more thing...');
+    
+    var foobar = 'batbaz';
 })();
